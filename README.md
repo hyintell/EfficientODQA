@@ -14,16 +14,15 @@
 - PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them, in _TACL_ 2021. [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00415/107615/PAQ-65-Million-Probably-Asked-Questions-and-What) [[Code: PAQ]](https://github.com/facebookresearch/PAQ)  
 - R2-D2: A Modular Baseline for Open-Domain Question Answering, in _EMNLP_ 2021. [[Paper]](https://arxiv.org/abs/2109.03502) [[Code: R2-D2]](https://github.com/KNOT-FIT-BUT/R2-D2)  
 - RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering, in _NAACL_ 2021. [[Paper]](https://aclanthology.org/2021.naacl-main.466/) [[Code: RocketQA]](https://github.com/PaddlePaddle/RocketQA)  
-- UnitedQA: A Hybrid Approach for Open Domain Question Answering, in _ACL_ 2021. [[Paper]](https://aclanthology.org/2021.acl-long.240/) [[Code: UnitedQA]](https://github.com/microsoft/unitedQA)  
+- UnitedQA: A Hybrid Approach for Open Domain Question Answering, in _ACL_ 2021. [[Paper]](https://aclanthology.org/2021.acl-long.240/) [[Code: UnitedQA]](https://github.com/microsoft/unitedQA)
+- Generation-Augmented Retrieval for Open-Domain Question Answering, in _ACL_ 2021. [[Paper]](https://aclanthology.org/2021.acl-long.316/) [[Code: GAR]](https://github.com/morningmoni/GAR)  
 
 > 2020
 
-- Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval, in _arXiv_ 2020. [[Paper]](https://www.semanticscholar.org/Paper/Approximate-Nearest-Neighbor-Negative-Contrastive-Xiong-Xiong/c9b8593db099869fe7254aa1fa53f3c9073b0176) [[Code: ANCE]](https://aka.ms/ance)  
+- Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval, in _arXiv_ 2020. [[Paper]](https://arxiv.org/pdf/2007.00808.pdf) [[Code: ANCE]](https://aka.ms/ance)  
 - ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT, in _ACM SIGIR _2020. [[Paper]](https://dl.acm.org/doi/10.1145/3397271.3401075) [[Code: Colbert]](https://github.com/stanford-futuredata/ColBERT)  
-- Deformer: Decomposing Pre-trained Transformers for Faster Question Answering, in _ACL_ 2020. [[Paper]](https://aclanthology.org/2020.acl-main.411/) [[Code: Deformer]](ttps://github.com/StonyBrookNLP/deformer)  
 - Dense Passage Retrieval for Open-Domain Question Answering, in _EMNLP_ 2020. [[Paper]](https://aclanthology.org/2020.emnlp-main.550/) [[Code: DPR]](https://github.com/facebookresearch/DPR)  
 - Contextualized Sparse Representations for Real-Time Open-Domain Question Answering, in _ACL_ 2020. [[Paper]](https://arxiv.org/abs/1911.02896) [[Code: DenSPI+Sparc]](https://github.com/jhyuklee/sparc)  
-- Generation-Augmented Retrieval for Open-domain Question Answering, in _ACL_ 2021. [[Paper]](https://aclanthology.org/2021.acl-long.316/) [[Code: GAR]](https://github.com/morningmoni/GAR)  
 - How Much Knowledge Can You Pack Into the Parameters of a Language Model? in _EMNLP_ 2020. [[Paper]](https://aclanthology.org/2020.emnlp-main.437/) [[Code: T5]](https://github.com/google-research/google-research/tree/master/t5_closed_book_qa)  
 
 > 2019 
