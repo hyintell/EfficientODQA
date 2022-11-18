@@ -20,7 +20,7 @@
 > 2020
 
 - Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval, in _arXiv_ 2020. [[Paper]](https://arxiv.org/abs/2007.00808) [[Code: ANCE]](https://aka.ms/ance)  
-- ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT, in _ACM SIGIR _2020. [[Paper]](https://dl.acm.org/doi/10.1145/3397271.3401075) [[Code: Colbert]](https://github.com/stanford-futuredata/ColBERT)  
+- ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT, in _ACM SIGIR_ 2020. [[Paper]](https://dl.acm.org/doi/10.1145/3397271.3401075) [[Code: Colbert]](https://github.com/stanford-futuredata/ColBERT)  
 - Dense Passage Retrieval for Open-Domain Question Answering, in _EMNLP_ 2020. [[Paper]](https://aclanthology.org/2020.emnlp-main.550/) [[Code: DPR]](https://github.com/facebookresearch/DPR)  
 - Contextualized Sparse Representations for Real-Time Open-Domain Question Answering, in _ACL_ 2020. [[Paper]](https://arxiv.org/abs/1911.02896) [[Code: DenSPI+Sparc]](https://github.com/jhyuklee/sparc)  
 - How Much Knowledge Can You Pack Into the Parameters of a Language Model? in _EMNLP_ 2020. [[Paper]](https://aclanthology.org/2020.emnlp-main.437/) [[Code: T5]](https://github.com/google-research/google-research/tree/master/t5_closed_book_qa)  
